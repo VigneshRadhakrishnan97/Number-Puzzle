@@ -1,0 +1,109 @@
+.centerbox{
+    margin: auto;
+    position: relative;
+    min-width :400px;
+    min-height:400px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: brown;
+    
+}
+
+.numberbox{
+    
+    width:100px;
+    height:100px;
+    border-style: solid;
+    border-color: green;
+}
+
+.box{
+
+    margin-top: 5px;
+    margin-left: 5px;
+    width:100px;
+    height:100px;
+    border-style: solid;
+    border-color: green;
+
+    
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+  }
+
+  .number{
+      position: relative;
+      border: green solid ;
+      width:100px;
+      height: 100px;
+  }
+
+  .centertext{
+    box-sizing: border-box;
+    width: 100%;
+    border: solid #5B6DCD 10px;
+    padding: 5px;
+
+  }
+
+  .butt{
+      display: inline-block;
+      border: blue solid ;
+      background-color: blue;
+      padding-top: 0.5%;
+      padding-bottom: 0.5%;
+      padding-left: 1.4%;
+      padding-right: 1.4%;
+      border-radius: 10%;
+      text-align: center;
+      color: white;
+      margin-left: 0.5%;
+      margin-top: 0.5%;
+      margin-bottom: 0.5%;
+      margin-right: 0.5%;
+  }
+
+  .butt-empty{
+    display: inline-block;
+    border: blue solid ;
+    background-color: white;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-left: 1.4%;
+    padding-right: 1.4%;
+    border-radius: 10%;
+    text-align: center;
+    color: white;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    margin-right: 0.5%;
+}
+
+.butt-time{
+    display: inline-block;
+    border: blue solid ;
+    background-color: white;
+    padding-top: 0.4%;
+    padding-bottom: 0.4%;
+    padding-left: 1.4%;
+    padding-right: 1.4%;
+    border-radius: 10%;
+    text-align: center;
+    color: black;
+   
+}
+.game{
+    display:inline-block;
+   
+    min-width: 200px;
+    min-height: 200px;
+}
+
+  
